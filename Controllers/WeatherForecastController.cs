@@ -13,7 +13,7 @@ namespace DemoApiDocker.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Freezing1", "Bracing2", "Chilly5", "Cool6", "Mild1", "Warm9", "Balmy8", "Hot1", "Sweltering3", "Scorching7"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
